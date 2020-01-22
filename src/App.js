@@ -21,10 +21,10 @@ const App = () => {
         <Header />
         <AddedFeatures />
       </div>
-      {/*<div className="box">
+      <div className="box">
         <AdditionalFeatures />
-        <Total />
-      </div>*/}
+        {/*<Total />*/}
+      </div>
     </div>
   );
 };
